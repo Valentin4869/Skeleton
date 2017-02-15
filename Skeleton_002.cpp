@@ -106,7 +106,7 @@ void InitGL(int* argc, char** argv)
 
 }
 
-vector<vector<double>> readCSV(const char* path, bool print) {
+vector< vector<double> > readCSV(const char* path, bool print) {
 
 
 	ifstream in;
